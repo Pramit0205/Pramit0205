@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![AppScript](https://img.shields.io/badge/AppScript-Developed-blue?style=flat&logo=google)&nbsp;
+![AppScript](https://img.shields.io/badge/-AppScript-4285F4?style=flat-square&logo=google&logoColor=white)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
